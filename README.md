@@ -80,39 +80,6 @@ Currently  : Sharpening offensive security skills on TryHackMe
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/ishant025">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishant025&theme=highcontrast&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ishant025">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishant025&theme=github_dark" alt="GitHub Profile Summary" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ishant025">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ishant025&theme=github_dark" alt="Top Languages by Repo" />
-  </a>
-  <a href="https://github.com/ishant025">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ishant025&theme=github_dark" alt="GitHub Stats" />
-  </a>
-</p>
-
----
-
-## 🐍 Contribution Graph
-
-<p align="center">
-  <a href="https://github.com/ishant025">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ishant025&theme=github-compact&hide_border=true&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff" alt="Contribution Graph" />
-  </a>
-</p>
-
 ---
 
 ## 🤝 Connect With Me
