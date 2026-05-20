@@ -1,0 +1,129 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=600&lines=%24+whoami;Ishant+Sahu+%7C+Ethical+Hacker;Penetration+Tester+%7C+CTF+Player;Breaking+things+to+make+them+secure" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OS-Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Editor-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shell-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Offensive%20Security-red?style=for-the-badge&logo=hackthebox&logoColor=white" />
+</p>
+
+---
+
+## 🧑‍💻 About Me
+
+```bash
+┌──(ishant025㉿kali)-[~]
+└─$ cat /etc/profile
+
+Name       : Ishant Sahu
+Location   : Raipur, Chhattisgarh 🇮🇳
+Education  : Pre-Final Year @ KK Modi University
+Role       : Aspiring Ethical Hacker | Penetration Tester
+Interests  : Web App Security, Network Pentesting, CTFs, OSINT
+Currently  : Sharpening offensive security skills on TryHackMe
+```
+
+---
+
+## 🏆 TryHackMe Stats
+
+<p align="center">
+  <a href="https://tryhackme.com/p/ishacker025">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/ishacker025.png" alt="TryHackMe Badge" />
+  </a>
+</p>
+
+| Metric | Value |
+|--------|-------|
+| 🏅 Rank | **Top 2%** |
+| 🎖️ Level | **0xD [LEGEND]** |
+| 🔥 Streak | **387 Days** |
+| 🏠 Rooms Completed | **233** |
+| 🎯 Points | **31,382** |
+| 🛡️ Badges | **24** |
+
+---
+
+## 🛠️ Arsenal (Tools & Skills)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hydra-black?style=for-the-badge&logo=gnubash&logoColor=green" />
+  <img src="https://img.shields.io/badge/John%20The%20Ripper-red?style=for-the-badge&logo=hashnode&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLMap-orange?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gobuster-purple?style=for-the-badge&logo=go&logoColor=white" />
+</p>
+
+### Languages & Scripting
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Networking-0078D4?style=for-the-badge&logo=cisco&logoColor=white" />
+</p>
+
+---
+
+## 📜 Certifications & Learning Paths
+
+- 🔐 TryHackMe — Jr Penetration Tester Path
+- 🌐 TryHackMe — Web Fundamentals
+- 🐧 TryHackMe — Linux Fundamentals
+- 🛡️ TryHackMe — Offensive Security
+- 🏅 GSSoC'24 Contributor
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ishant025&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishant025&theme=radical&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishant025&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" alt="Top Languages" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ishant025/ishant025/output/github-snake-dark.svg" alt="Snake animation" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ishant-sahu025/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://tryhackme.com/p/ishacker025">
+    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
+  </a>
+  <a href="https://github.com/ishant025">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ishant025&color=00ff41&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <i>⚡ "The quieter you become, the more you are able to hear." — Kali Linux</i>
+</p>
