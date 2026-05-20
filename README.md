@@ -84,31 +84,34 @@ Currently  : Sharpening offensive security skills on TryHackMe
 
 <p align="center">
   <a href="https://github.com/ishant025">
-    <img src="https://github-readme-stats.vercel.app/api?username=ishant025&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&count_private=true" alt="GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishant025&theme=highcontrast&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/ishant025">
-    <img src="https://streak-stats.demolab.com?user=ishant025&theme=dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishant025&theme=github_dark" alt="GitHub Profile Summary" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/ishant025">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishant025&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" alt="Top Languages" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ishant025&theme=github_dark" alt="Top Languages by Repo" />
+  </a>
+  <a href="https://github.com/ishant025">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ishant025&theme=github_dark" alt="GitHub Stats" />
   </a>
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Graph
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ishant025/ishant025/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ishant025/ishant025/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ishant025/ishant025/output/github-snake-dark.svg" />
-</picture>
+<p align="center">
+  <a href="https://github.com/ishant025">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ishant025&theme=github-compact&hide_border=true&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff" alt="Contribution Graph" />
+  </a>
+</p>
 
 ---
 
