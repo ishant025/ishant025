@@ -31,9 +31,7 @@ Currently  : Sharpening offensive security skills on TryHackMe
 
 <p align="center">
   <a href="https://tryhackme.com/p/ishacker025">
-    <img src="https://img.shields.io/badge/TryHackMe-ishacker025-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
-    <img src="https://img.shields.io/badge/Level-0xD%20LEGEND-00ff41?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Top-2%25-red?style=for-the-badge" />
+    <img src="./assets/tryhackme-badge.png" alt="TryHackMe Badge" />
   </a>
 </p>
 
